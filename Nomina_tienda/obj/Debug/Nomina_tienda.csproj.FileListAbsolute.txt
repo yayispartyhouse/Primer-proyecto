@@ -1,0 +1,10 @@
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\bin\Debug\Nomina_tienda.exe.config
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\bin\Debug\Nomina_tienda.exe
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\bin\Debug\Nomina_tienda.pdb
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.csprojAssemblyReference.cache
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.Form1.resources
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.Properties.Resources.resources
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.csproj.GenerateResource.cache
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.csproj.CoreCompileInputs.cache
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.exe
+C:\Users\Retro\Desktop\Ejercicio_Nomina\Nomina_tienda\Nomina_tienda\obj\Debug\Nomina_tienda.pdb
