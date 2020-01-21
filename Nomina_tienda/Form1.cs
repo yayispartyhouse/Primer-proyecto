@@ -28,5 +28,10 @@ namespace Nomina_tienda
         {
             MessageBox.Show("Tugfa");
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Las nalgas de juanito");
+        }
     }
 }
